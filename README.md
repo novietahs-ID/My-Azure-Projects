@@ -26,7 +26,7 @@ This repository showcases my learning journey in Microsoft Azure, focusing on cl
 - Data Services
 - Security & Governance
 
-##Skills Applied
+**Skills Applied:**
 - Cloud Fundamentals
 - Data Management
 - Security & Governance Awareness
