@@ -22,7 +22,7 @@ This repository showcases my learning journey in Microsoft Azure, focusing on cl
 - Data Analytics Concepts
 
 📄 File:
-- NHS-Data_Technician_Workbook_Week_5_Azure
+- NHS-Data_Technician_Workbook_Week_5_Azure.docx
 
 ## 🛠️ Tools & Technologies
 - Microsoft Azure
