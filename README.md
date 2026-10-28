@@ -15,14 +15,9 @@ This repository showcases my learning journey in Microsoft Azure, focusing on cl
 ## 📂 Projects
 ### 🏥 NHS Data Analysis in Azure
 **Objective:** Explore Azure services and cloud-based data solutions through analysis of NHS workforce datasets.
-**Skills Applied:**
-- Cloud Fundamentals
-- Data Management
-- Security & Governance Awareness
-- Data Analytics Concepts
 
-📄 File:
-- NHS-Data_Technician_Workbook_Week_5_Azure.docx
+📄 Workbook:
+- [Open Workbook](./NHS-Data_Technician_Workbook_Week_5_Azure.docx)
 
 ## 🛠️ Tools & Technologies
 - Microsoft Azure
@@ -30,6 +25,12 @@ This repository showcases my learning journey in Microsoft Azure, focusing on cl
 - Cloud Computing
 - Data Services
 - Security & Governance
+
+##Skills Applied
+- Cloud Fundamentals
+- Data Management
+- Security & Governance Awareness
+- Data Analytics Concepts
 
 ## 🎯 Key Outcomes
 - Developed foundational knowledge of Microsoft Azure and cloud technologies
